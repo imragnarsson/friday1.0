@@ -1,0 +1,6 @@
+speech_recognition
+gtts
+transformers
+requests
+Flask
+google
